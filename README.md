@@ -23,7 +23,7 @@
   ```
 ## Predict
   Load model from huggingface repository
-      ```
+  ```
     from transformers import pipeline
     
     PIPELINE_NAME = 'question-answering'
